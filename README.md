@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+The paper starts with an analysis of how the COVID-19 pandemic started. To understand how this happened, we explore the world of viruses and how they interact with living things. We analyse how viruses work, reproduce and exist in different organisms. 
 
-You can use the [editor on GitHub](https://github.com/learn-tech-io/covid-19-demystified/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+COVID-19 for many is a life-threatening disease so we next examine how the SARS-CoV-2 virus responsible for COVID-19 can make people ill. In the space of just a few months COVID-19 had become a global pandemic, so we look in detail at how the disease spread around the planet so quickly, including the distinct phases that a pandemic goes through, including mutations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We next analyse the effects of COVID-19 on individuals, including the risks to individuals including the potential characteristics of those at risk of contracting the disease, its effects on health services, society and economics.
 
-### Markdown
+The key question is how this pandemic can be stopped, so next we look at vaccines, drugs, technologies, and the public policy options open to governments. We investigate why choosing the right policy is so difficult and why using mathematical models can inform decision-making. Models are, of course, based on data, so next we look in details at the availability and quality of data, and how to use basic statistical methods to read and interpret it. We then look at modelling and show what is meant by ‘flattening the curve’. We then use a basic model to show the kinds of results we can expect from different strategies. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/learn-tech-io/covid-19-demystified/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Finally, the paper will analyse the factors that need to be considered when thinking about how to exit from COVID-19, including successful government interventions, and ask what will be different in the world after COVID-19 is brought under control? 
