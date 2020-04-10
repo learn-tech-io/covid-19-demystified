@@ -9,3 +9,8 @@ We next analyse the effects of COVID-19 on individuals, including the risks to i
 The key question is how this pandemic can be stopped, so next we look at vaccines, drugs, technologies, and the public policy options open to governments. We investigate why choosing the right policy is so difficult and why using mathematical models can inform decision-making. Models are, of course, based on data, so next we look in details at the availability and quality of data, and how to use basic statistical methods to read and interpret it. We then look at modelling and show what is meant by ‘flattening the curve’. We then use a basic model to show the kinds of results we can expect from different strategies. 
 
 Finally, the paper will analyse the factors that need to be considered when thinking about how to exit from COVID-19, including successful government interventions, and ask what will be different in the world after COVID-19 is brought under control? 
+
+Please - 
+1.	Read, review and improve
+2.	Pass it to others to read, review and improve
+3.	Get ready to help promote a free online course with optional assessment for schools, colleges and the workforce based on this paper
