@@ -1,6 +1,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/1.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Generic License</a>.
 
-The paper starts with an analysis of how the COVID-19 pandemic started. To understand how this happened, we explore the world of viruses and how they interact with living things. We analyse how viruses work, reproduce and exist in different organisms. 
+The course starts with an analysis of how the COVID-19 pandemic started. To understand how this happened, we explore the world of viruses and how they interact with living things. We analyse how viruses work, reproduce and exist in different organisms. 
 
 COVID-19 for many is a life-threatening disease so we next examine how the SARS-CoV-2 virus responsible for COVID-19 can make people ill. In the space of just a few months COVID-19 had become a global pandemic, so we look in detail at how the disease spread around the planet so quickly, including the distinct phases that a pandemic goes through, including mutations. 
 
@@ -13,4 +13,4 @@ Finally, the paper will analyse the factors that need to be considered when thin
 Please - 
 1.	Read, review and improve
 2.	Pass it to others to read, review and improve
-3.	Get ready to help promote a free online course with optional assessment for schools, colleges and the workforce based on this paper
+3.	Get ready to help promote a free online course with optional assessment for schools, colleges and the workforce based on this
