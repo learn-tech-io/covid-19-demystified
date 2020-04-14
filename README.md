@@ -12,4 +12,4 @@ Finally, the paper will analyse the factors that need to be considered when thin
 
 Please - 
 1.	Read, review and improve
-2.	Pass it to others to read, review and improve
+2.	Pass it on to others to read, review and improve
