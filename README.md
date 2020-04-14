@@ -1,6 +1,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/1.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Creative Commons Attribution-NonCommercial-ShareAlike Generic License</a>.
 
-<iframe src="https://player.vimeo.com/video/402534102" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<a rel="https://player.vimeo.com/video/402534102" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></a>
 
 The course starts with an analysis of how the COVID-19 pandemic started. To understand how this happened, we explore the world of viruses and how they interact with living things. We analyse how viruses work, reproduce and exist in different organisms. 
 
