@@ -1,10 +1,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/1.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Creative Commons Attribution-NonCommercial-ShareAlike Generic License</a>.
 
-This paper and set of models is the text for this online course - 
-
-<a href="https://www.learn-tech.courses/p/covid-19-demystified"</a>
-
-https://www.learn-tech.courses/p/covid-19-demystified
+This paper and set of models is the text for this online course - https://www.learn-tech.courses/p/covid-19-demystified
 
 The course starts with an analysis of how the COVID-19 pandemic started. To understand how this happened, we explore the world of viruses and how they interact with living things. We analyse how viruses work, reproduce and exist in different organisms. 
 
